@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+#landing{
+    background-color: #f3f0ed;
+    font-family: 'Quicksand';
+    font-weight: 600;
+
+}
+
+#landing h1,#landing h3,#landing p{
+    color: #552b01;
+}
+
+#nav{
+    background-color: #e7d0b7;
+    font-family: 'Quicksand';
+
+}
+
+#nav a{
+    color: #552b01;
+}
+
+#nav img{
+    width: 45px;
+}
+
+
+#social img{
+    width: 30px;
+}
+
+#landing #socmed{
+    color: #552b01;
+}
+
+
+#projects{
+    background-color: #cabaac;
+    color: #552b01;
+    font-family: 'Quicksand';
+    font-weight: 600;
+
+}
+
+#projects .card-subtitle{
+    color: #9e8066;
+}
+
+#projects .card-body{
+    background-color: #e0d7cf;
+    border-radius: 10px;
+    margin: -9px;
+}
+
+.card{
+    width: 18rem;
+    margin-right: 20px !important;
+}
+
+#projects .card-title, #projects .card-subtitle{
+    font-weight: 900;
+}
+
+#projects .card-link{
+    color: #866c55;
+}
+
+#tools {
+    font-family: 'Quicksand';
+    color: #f3f0ed;
+    background-color: #836953;
+}
+
+.container-bg{
+    margin-top: 5rem;
+    background: url(images/toolbg.jpg);
+    border-radius: 10px;
+}
+
+.ttext{
+    margin-top: 5rem;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+h2{
+    margin: 0;
+}
+
+#contact{
+    font-family: 'Quicksand';
+    background-color: #362c22;
+    font-weight: 800;
+    
+}
+
+#ctext{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    color: #cabaac;
+}
+
+.formbg{
+    background-color: #836953;
+    color: #362c22;
+}
+
+.btn{
+    background-color: #cabaac;
+    color: #552b01;
+    font-weight: 900;
+}
+
+.modal-dialog{
+    color: #552b01;
+}
